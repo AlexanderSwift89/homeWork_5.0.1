@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">classWork_3.0.0</string>
+    <string name="upperHint">Верхнее давление</string>
+    <string name="lowerHint">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tachCbx">Тахикардия</string>
+    <string name="saveBtn">Сохранить</string>
+    <string name="incorrect_value">Введены неправильные данные</string>
+</resources>

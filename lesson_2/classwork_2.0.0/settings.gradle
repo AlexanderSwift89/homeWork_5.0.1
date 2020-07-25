@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "classwork_2.0.0"

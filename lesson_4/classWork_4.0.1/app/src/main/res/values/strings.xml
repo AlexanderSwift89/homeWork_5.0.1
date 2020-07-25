@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassWork_4.0.1</string>
+    <array name="countries">
+        <item>Russia</item>
+        <item>Belarus</item>>
+        <item>Germany</item>>
+    </array>
+    >
+</resources>
