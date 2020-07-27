@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">classWork_5.0.1</string>
+    <string name="toolbar_exit">Выйти</string>
+    <string name="toolbar_settings">Settings</string>
+    <string name="toolbar_notes">Записная книжка</string>
+
+    <string name="hintEdtx">Entered text...</string>
+    <string name="saveBtn">Save</string>
 
 </resources>
