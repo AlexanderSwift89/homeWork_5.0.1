@@ -21,10 +21,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        initViews();
+
         String saveText = getSavedText();
         mInputNote.setText(saveText);
-
-        initViews();
 
         mBtnSaveNote.setOnClickListener(new View.OnClickListener(){
             @Override
