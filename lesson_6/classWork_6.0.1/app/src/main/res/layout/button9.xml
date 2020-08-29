@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/button1"
+    android:layout_width="90dp"
+    android:layout_height="90dp"
+    android:text="text"
+    android:textColor="@color/colorAccent"
+    tools:showIn="@layout/activity_main" />
