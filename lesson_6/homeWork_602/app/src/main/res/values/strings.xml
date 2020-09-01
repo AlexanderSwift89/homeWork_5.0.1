@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homeWork_6.0.2</string>
+
+    <string name="divide">homeWork_6.0.2</string>
+    <string name="multiply">homeWork_6.0.2</string>
+    <string name="minus">homeWork_6.0.2</string>
+    <string name="plus">homeWork_6.0.2</string>
+    <string name="equals">homeWork_6.0.2</string>
+</resources>
