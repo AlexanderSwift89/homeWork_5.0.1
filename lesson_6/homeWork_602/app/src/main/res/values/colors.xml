@@ -5,4 +5,6 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="colorBckTextEdit">#000000</color>
     <color name="colorTextEdit">#FFFFFF</color>
+    <color name="colorBtnBck">#F6C007</color>
+    <color name="colorBtnBorder">#000000</color>
 </resources>
